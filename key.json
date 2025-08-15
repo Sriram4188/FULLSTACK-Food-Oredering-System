@@ -1,0 +1,13 @@
+{
+  "type": "service_account",
+  "project_id": "varmafoods-515e2",
+  "private_key_id": "207d65b429a6326bacddf7b538200c2db0c33fda",
+  "private_key": "-----BEGIN PRIVATE KEY-----\nMIIEvwIBADANBgkqhkiG9w0BAQEFAASCBKkwggSlAgEAAoIBAQDGcwTpVN1q3pNY\nRe1iLvYq0SpFnqNHDfVcUZKIuiqdpix6TumMkEcVLH07nhitJQ2AOGNTxZ2VM8AY\neQAY5ELoRAgsNkZhksLmAYQARleUitkdKvpCY7ywtjIcvKl+S35qCzpDju+FPfAO\nq1fYrXn1GxSVooLs0nDc8hqaHYEcmcVoKWVB0/ai4dJX1rFmYrDAliWJxM9Ui3Hn\njEnues8EqY05xoeu9+TWMpgZ3rw5dn1S7OOzyQ156sHooiY4nX1JQoAVgdqj08fc\nNgbJwckM7X/z1qF/Z8Dn8Z4bE8MGFd4rsl1CILZyIT4b7ori9re01SwyfRbE9JRh\npIHFDxvvAgMBAAECggEAARmAWAmAD3GJbcLukztFq6MREcEd2Vqocj/wUex9A/ad\nL+hPddelrS+Afrc3jFvGxfJA5hLKiQeu82F6jBZ5/iXEpK6k4TGH2TlHNkEthw6c\nwoMv4YbdqsvcOYLTQQjBe/6n7pB5DQH02kkZVzpO2mf6lF0cKcDrDFLw0jk5V+yl\na2KoeKwPskfFM9mvYFmHBm+zG19GVbbe12YHKZ+gSfPPqQWXmjRBcpinL0rfAINa\nEuRbOECpMph5Cxw/v1Ya7BEKaqPy3qL5x1DN+qIM9AjX0e9w2ugu3o0sNTlpuNbN\nnfk9/Q9/h14XubUJXhvWmI3Hlol8Xi6J19mQiLeFEQKBgQDnzZ90rTWGkc5o8pi6\nZvmehz50Zg2b68BZoasKXrS07wnlm7gu7IGfF8TMoYIKto2lZT9NGaxYWRRIvuPU\n3R3o+/wxGIO036oLmPo9Hyt7Jg+3E5oMq0D5FrSO4tu4NEpZJJAvhXbpzY/ICci3\nE7Ln6ABChdIdeWz5CSCq4U7xIwKBgQDbKhgKB0CE+Xu0/hhxO5naDe4Rqv/qznbp\n9YGVNS9NipNwpdWCmKri2idAiAh+ySfgN0trePZsVj51BpdxrMXki71oY9xAi3kA\niewfD3nLH2gPBjiZnnJ4JJhes1mdrPfpl1iWdiBrwW+okOfW1EGAkY1PXioIorVP\ninsb+nkExQKBgQCbTiwIm0giaiw2Klvjf7y81vYkPH/fuJs+MlALeZpvIzypRqSn\nY7QQ6Hbld0xOazMJ3oUD3jCXXM93UdYJt0Aj6jh0mG0d0UD31j3Kl8ilEMI0sgBj\nfpXgjbLZjOsTRo2Nni6weCZMzXoI121QI/WY5NrPtyMotkMps1DczGn8qwKBgQCT\nYfNYixfwVHXEeTumqhYEdWmrp/sBxGZjXx4NYP62foI4Ns0mTdRdSacr1k8gM9YF\nCipF08qjgDvwJsahQzaxQufU05LCNQjiO9315UpaNnyb3esiI1OHR9TPmnyhdDgj\ndgu04ytaS3LzQL8n0QVbmIYW4ZQSyphzLQUtA3tuoQKBgQDJm4hTVIotYyTgKmoz\n2cMm1bnicQntYGO9OUStEm0K18vhu9HHTG24/g6RpJrghdyERqSXHUZTt4GLUKi5\nkSl4unfnN+HwOeEJi+axEmjOykPY0f3oAoQodQPPEkI5LMBqN2+o6EDT/8ER9kY8\ndj++rXopY3/L+mo34CcbRWEx/Q==\n-----END PRIVATE KEY-----\n",
+  "client_email": "firebase-adminsdk-2vlv7@varmafoods-515e2.iam.gserviceaccount.com",
+  "client_id": "102710582635632463118",
+  "auth_uri": "https://accounts.google.com/o/oauth2/auth",
+  "token_uri": "https://oauth2.googleapis.com/token",
+  "auth_provider_x509_cert_url": "https://www.googleapis.com/oauth2/v1/certs",
+  "client_x509_cert_url": "https://www.googleapis.com/robot/v1/metadata/x509/firebase-adminsdk-2vlv7%40varmafoods-515e2.iam.gserviceaccount.com",
+  "universe_domain": "googleapis.com"
+}

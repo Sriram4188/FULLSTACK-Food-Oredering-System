@@ -1,0 +1,107 @@
+<!DOCTYPE html>
+<html>
+<head>
+    <title>Login Page</title>
+    <style>
+        body {
+            font-family: 'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+            font-size: 18px;
+            font-weight: normal; /* Changed from bold to normal */
+            background-image: url('https://wallpapercave.com/wp/wp9278305.jpg');
+            background-size: cover;
+            background-position: center;
+            background-repeat: no-repeat;
+            background-attachment: fixed;
+            margin: 0;
+            display: flex;
+            justify-content: flex-end; 
+            align-items: center;
+            height: 100vh;
+            color: #ffffff;
+            padding-right: 50px; 
+        }
+       
+        .login-container {
+            background-color: rgba(0, 0, 0, 0.7);
+            padding: 30px 50px;
+            border-radius: 10px;
+            box-shadow: 0 4px 8px rgba(0, 0, 0, 0.3);
+            text-align: center;
+            width: 310px; /* A fixed width to control the form size */
+        }
+        .login-container {
+    /* ... (your existing styles for the login container) ... */
+    transition: transform 0.3s ease-in-out, box-shadow 0.3s ease-in-out;
+}
+
+.login-container:hover {
+    transform: scale(1.03); /* Makes the box slightly larger */
+    box-shadow: 0 8px 16px rgba(0, 0, 0, 0.4); /* Makes the shadow more prominent */
+}
+        h1 {
+            color: #FFD700;
+            margin-top: 0;
+            font-weight: bold; /* Keeping the heading bold for emphasis */
+        }
+        form {
+            margin-top: 20px;
+        }
+        label {
+            display: block;
+            margin-bottom: 8px;
+            text-align: left;
+        }
+        input[type="text"], input[type="tel"] {
+            width: 100%;
+            padding: 10px;
+            margin-bottom: 20px;
+            border: 1px solid #ccc;
+            border-radius: 5px;
+            box-sizing: border-box;
+            font-size: 16px;
+        }
+        input[type="submit"] {
+            background-color: #FFD700;
+            color: black;
+            padding: 10px 20px;
+            border: none;
+            border-radius: 5px;
+            cursor: pointer;
+            font-weight: bold;
+            transition: background-color 0.3s ease;
+        }
+        input[type="submit"]:hover {
+            background-color: #e5c100;
+        }
+        .links {
+            margin-top: 20px;
+        }
+        a {
+            color: #FFD700;
+            text-decoration: none;
+            font-weight: normal;
+        }
+        a:hover {
+            text-decoration: underline;
+        }
+    </style>
+</head>
+<body>
+    <div class="login-container">
+        <h1>Login Page</h1>
+        <form action="/loginsubmit" method="get">
+            <label for="username">Name:</label>
+            <input type="text" id="username" name="user" required>
+    
+            <label for="password">Password:</label>
+            <input type="tel" id="password" name="pass" required>
+    
+            <input type="submit" value="Login">
+        </form>
+        <div class="links">
+            <a href="adminlogin.html">Admin</a>
+            <p>Not registered yet? <a href="/registration">Register here.</a></p>
+        </div>
+    </div>
+</body>
+</html>
